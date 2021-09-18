@@ -2,7 +2,7 @@
 
 *rsdns-benches* is dedicated to benchmarking [rsdns]. It tracks *rsdns* absolute and relative performance.
 
-It was separated from the *rsdns* git repository to keep *rsnds* clean and focused.
+It was separated from the *rsdns* git repository to keep *rsdns* clean and focused.
 
 [rsdns]: https://github.com/r-bk/rsdns
 
