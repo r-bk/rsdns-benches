@@ -1,0 +1,16 @@
+[package]
+name = "rsdns-benches"
+version = "0.1.0"
+edition = "2018"
+resolver = "2"
+
+[dependencies.rsdns]
+version = "0.5.0"
+# path = "deps/rsdns"
+
+[dev-dependencies]
+criterion = "0.3"
+
+[[bench]]
+name = "rrset"
+harness = false
